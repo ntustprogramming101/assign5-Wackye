@@ -21,4 +21,4 @@
 - 到 github.com 裡面，畫面右側的 repository 裡點入你的 assignX 作業。.
 - 執行本說明檔的步驟二(上傳你完成的程式碼)，不用再次執行步驟3
 
-### 恭喜你交作業完畢！有問題請上[Mooc平台](http://u.camdemy.com/course/2211/discuss/)討論。
+### 恭喜你交作業完畢！有問題請上[Mooc平台](http://programming101.formosasoft.com/course/14/discuss)討論。
